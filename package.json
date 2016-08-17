@@ -1,0 +1,15 @@
+{
+  "name": "reduxtodo",
+  "version": "1.0.0",
+  "description": "Training exercise Redux Todo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "todo"
+  ],
+  "author": "thatgreenguy",
+  "license": "ISC"
+}
